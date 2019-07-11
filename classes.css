@@ -1,0 +1,14 @@
+body{
+   background-color:#f4f4f4;
+   color:#555; 
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 1.6em;
+   margin:0;
+}
+
+.box-teacher{
+    background-color: #222222;
+    color: aqua; 
+
+    border:5px blue solid;
+}
